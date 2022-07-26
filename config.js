@@ -37,8 +37,8 @@ global.options = {
     mute: false,
     public: true
 }
-global.owner = ["6288292024190","6285784918313"]
-global.sessionName = "hisoka"
+global.owner = ["6283844882292","6283844882292"]
+global.sessionName = "Doetadot"
 global.packname = "hisoka-waweb.js"
 global.author = "Dika Ardnt."
 
